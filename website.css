@@ -1,0 +1,53 @@
+header     {            padding: 20px;
+                           text-align: center;
+                            margin:  0 auto;
+                            background-color: bisque;
+                            color:#fff;
+                             text-transform: uppercase    }
+header h1 {color: rebeccapurple}
+.navv {text-align: center;
+background-color: bisque;}
+.navv ul {list-style: none;color: brown;}
+
+/* .navv ul {list-style: none;
+       display: block;
+       padding:  40px 100px;
+       background-color: bisque;
+      text-align: center;
+       
+}
+.navv ul li {float: left;padding-left: 30px;padding-left: 300px;}
+.navv ul li a {text-decoration: none;
+            color: brown;
+           text-align: center; } */
+.good {background-color: bisque;}
+.good h3 {color:brown;
+          text-align: center;
+         font-size: 30px;}
+.good span {display: block;
+           color:rebeccapurple ;
+            padding: 20px 0;}
+
+.good {display: inline-block;
+      float: left;
+      width: 65%;}
+.icon {float: right;
+      width: 30%;
+    background-color: bisque;
+    text-align: center;
+padding: 50px 0;}
+.icon a  {display: block;
+        padding: 40px;}
+.icon a i {width: 400px;}
+.footer {background-color: bisque;
+text-align: center;
+padding: 30px;}
+.clearfix {clear: both;}
+.form {background-color: bisque;
+text-align: center;
+;}
+.form h2 {color: brown;
+         font-size: 30px;
+        padding-top: 30px;}
+.form lable {color:rebeccapurple}
+
